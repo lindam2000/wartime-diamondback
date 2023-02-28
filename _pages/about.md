@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The FitnessGram PACER Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.
+The Fitness Gran Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.
 
 This text is **italic**.
 
